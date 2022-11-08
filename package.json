@@ -47,6 +47,6 @@
     "yarn": "^1.17.3"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.9"
+    "webpack-cli": "^3.3.12"
   }
 }
